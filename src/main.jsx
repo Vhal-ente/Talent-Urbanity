@@ -590,8 +590,8 @@ function App() {
                 <span className="block font-serif text-base font-semibold tracking-[0.12em] text-white">
                   TALENT URBANITY
                 </span>
-                <span className="mt-1 block font-mono text-[0.58rem] tracking-[0.22em] text-gold-bright">
-                  DIGITAL TRANSFORMATION & AUTOMATION
+                <span className="mt-1 block font-mono font-semibold text-[0.58rem] tracking-[0.22em] text-gold-bright">
+                  ADVISORY &amp; TRANSFORMATION
                 </span>
               </span>
             </div>
@@ -610,7 +610,7 @@ function App() {
           <div className="flex flex-col justify-between gap-3 border-t border-white/15 pt-6 text-xs md:flex-row">
             <span>© 2026 Talent Urbanity. All rights reserved.</span>
             <span>
-              Governance · People · Automation · Enterprise Technology
+              Governance · People &amp; Performance · Digital Transformation
             </span>
           </div>
         </div>
